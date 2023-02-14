@@ -5,9 +5,9 @@ class Home
 {
     public static void Main(string[] args)
     {
-        CalculateLengthProgram.CalculateLength();
+       // CalculateLengthProgram.CalculateLength();
        //Length.CalculateLength();
-
+       Line.CalculateLength();  
 
        // Console.WriteLine("Welcome to Line Comparison Computation Program on Master Branch");
     }
