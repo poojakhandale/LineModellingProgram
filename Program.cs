@@ -1,2 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using LineModellingProgram;
+
+class Home
+{
+    public static void Main(string[] args)
+    {
+        Length.CalculateLength();
+
+
+       // Console.WriteLine("Welcome to Line Comparison Computation Program on Master Branch");
+    }
+
+
+}
